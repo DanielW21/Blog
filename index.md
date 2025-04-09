@@ -7,7 +7,9 @@ Welcome to my professional portfolio. I’m Daniel Wu, a Biomedical Engineering 
 
 
 ## 🔧 Work Experience
-
+Research Student, Machine Learning for Drug Discovery | SickKids
+January 1 - April 31, 2025 
+Supervised by: [Michal Koziarski](https://scholar.google.com/citations?user=hEVRtosAAAAJ&hl=en)
 
 ## 🚀 Entrepreneurial Ventures
 
