@@ -6,6 +6,7 @@ title: Professional Portfolio
 Welcome to my professional portfolio. I’m Daniel Wu, a 2nd year Biomedical Engineering student at the University of Waterloo.
 This portfolio is a curated collection of my work, spanning technical projects, research interests, and startup ventures.
 
+<div style="border-left: 1px solid #000; height: 100px; display: inline-block;"></div>
 
 ### 🔧 Work Experience
 Research Student, Machine Learning for Drug Discovery | SickKids
@@ -21,8 +22,10 @@ An Introduction to Statistical Learning with Applications in Python (Machine Lea
 Nexus: A Brief History of Information Networks from the Stone Age to AI
 
 ### 📫 Get in Touch
-[GitHub](https://github.com/DanielW21)
-[Linkdin](https://www.linkedin.com/in/daniel-wu-8436b7277/)
-[Email](mailto:daniel.wu05@outlook.com)
+[GitHub](https://github.com/DanielW21)  
+[Linkdin](https://www.linkedin.com/in/daniel-wu-8436b7277/)  
+[Email](mailto:daniel.wu05@outlook.com)  
 
 *Last Updated Apr 8, 2025*
+
+<div style="border-left: 1px solid #000; height: 100px; display: inline-block;"></div>
