@@ -1,4 +1,28 @@
-theme: minima
 title: Daniel Wu
-author: Daniel Wu
 description: Professional Portfolio
+email: daniel.wu05@outlook.com
+url: "https://danielw21.github.io/Personal-Portfolio/" 
+theme: minima
+
+github_username: DanielW21
+linkedin_username: daniel-wu-8436b7277
+
+minima:
+  skin: auto
+  social_links:
+    - platform: github
+      user_url: https://github.com/DanielW21
+    - platform: linkedin
+      user_url: https://www.linkedin.com/in/daniel-wu-8436b7277/
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Theme settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: pretty
