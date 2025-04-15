@@ -6,6 +6,10 @@
 *.exe
 *.o
 *.so
+*.jekyll-cache
+Gemfile.lock
+Gemfile
+_site/
 
 # Packages #
 ############
