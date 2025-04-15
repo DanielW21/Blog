@@ -5,8 +5,7 @@ title: Professional Portfolio
 
 ### Who am I?
 
-Welcome to my professional portfolio. I’m Daniel Wu, a 2nd-year Biomedical Engineering student at the University of Waterloo.  
-This portfolio is a curated collection of my work, spanning technical projects, research interests, and startup ventures.
+Welcome to my professional portfolio. I’m Daniel Wu, a 2nd-year Biomedical Engineering student at the University of Waterloo. This portfolio is a curated collection of my work, spanning technical projects, research interests, and startup ventures.
 
 <div style="border-top: 2px solid #000; width: 750px; margin: 1.5rem auto;"></div>
 
@@ -14,15 +13,13 @@ This portfolio is a curated collection of my work, spanning technical projects, 
 
 **Research Student, Machine Learning for Drug Discovery**  
 *The Hospital for Sick Children (SickKids)*  
-**January 1 – April 31, 2025**  
 Supervised by: [Michal Koziarski](https://scholar.google.com/citations?user=hEVRtosAAAAJ&hl=en)
 
 <div style="margin-bottom: 1.5rem;"></div>
 
-### 🚀 Personal Projects
-
-- **WIP**: App studying biomechanics during exercise to give feedback.  
-- **WIP**: App that scrapes cooking video manuscripts and generates live, voice-controlled instructions.
+### 🚀 Current WIP Personal Projects
+- **Chefmate**: App that scrapes cooking video manuscripts and generates live, voice-controlled instructions to allow for a hands-free experience.
+- **Physiq**: Workout App to educate about Biomechanics and proper fitness form and habits (See Post Below).
 
 <div style="margin-bottom: 1.5rem;"></div>
 
@@ -43,4 +40,4 @@ Supervised by: [Michal Koziarski](https://scholar.google.com/citations?user=hEVR
 
 <div style="height: 1rem;"></div>
 
-*Last Updated: Apr 8, 2025*
+
