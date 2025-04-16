@@ -3,9 +3,10 @@ layout: home
 title: Professional Portfolio
 ---
 
-### Who am I?
+### **Who am I?**
+Welcome to my professional portfolio. I am Daniel Wu, a second-year Biomedical Engineering student at the University of Waterloo. This portfolio showcases a curated selection of my work, including technical projects, research interests, and startup ventures. 
 
-Welcome to my professional portfolio. I’m Daniel Wu, a 2nd-year Biomedical Engineering student at the University of Waterloo. This portfolio is a curated collection of my work, spanning technical projects, research interests, and startup ventures.
+With a strong passion for the biotech industry, I am dedicated to expanding my knowledge of machine learning to contribute to innovative research and industries that aim to improve the lives of all individuals.
 
 <div style="border-top: 2px solid #000; width: 750px; margin: 1.5rem auto;"></div>
 
@@ -18,7 +19,7 @@ Supervised by: [Michal Koziarski](https://scholar.google.com/citations?user=hEVR
 <div style="margin-bottom: 1.5rem;"></div>
 
 ### 🚀 Current WIP Personal Projects
-- **Chefmate**: App that scrapes cooking video manuscripts and generates live, voice-controlled instructions to allow for a hands-free experience.
+- **SousChef**: App that scrapes cooking video manuscripts and generates live, voice-controlled instructions to allow for a hands-free experience.
 - **Physiq**: Workout App to educate about Biomechanics and proper fitness form and habits (See Post Below).
 
 <div style="margin-bottom: 1.5rem;"></div>
@@ -29,12 +30,6 @@ Supervised by: [Michal Koziarski](https://scholar.google.com/citations?user=hEVR
 - *Nexus: A Brief History of Information Networks from the Stone Age to AI* (Information Theory Audiobook)
 
 <div style="margin-bottom: 1.5rem;"></div>
-
-### 📫 Get in Touch
-
-- [GitHub](https://github.com/DanielW21)  
-- [LinkedIn](https://www.linkedin.com/in/daniel-wu-8436b7277/)  
-- [Email](mailto:daniel.wu05@outlook.com)  
 
 <div style="margin-top: 2rem; border-top: 2px solid #000; width: 700px; margin-left: auto; margin-right: auto;"></div>
 

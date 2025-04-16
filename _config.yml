@@ -1,27 +1,17 @@
 title: Professional Portfolio | Daniel Wu
-email: daniel.wu05@outlook.com
-url: "https://danielw21.github.io/Personal-Portfolio/" 
+email: "daniel.wu05@outlook.com"
 theme: minima
 
-github_username: DanielW21
+url: "https://danielw21.github.io/Personal-Portfolio/"
 linkedin_username: daniel-wu-8436b7277
+github_username: DanielW21
 
-minima:
-  skin: auto
-  social_links:
-    - platform: github
-      user_url: https://github.com/DanielW21
-    - platform: linkedin
-      user_url: https://www.linkedin.com/in/daniel-wu-8436b7277/
-
-# Build settings
 markdown: kramdown
 kramdown:
   input: GFM
 
-# Theme settings
 plugins:
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-seo-tag
 
 permalink: pretty
