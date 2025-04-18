@@ -12,4 +12,4 @@ This experience has been especially meaningful as I work toward my goal of contr
 
 Thank you again to Michal and Stephen for their mentorship, patience, and generosity in guiding my learning throughout the project. (And an extra shout-out to the Research Program Managers for giving out lots of snacks during those long days 🍕🍎🥪☕️)
 
-Stay tuned — a paper detailing our work is currently in progress!
+**Stay tuned — a paper detailing our work is currently in progress!**
