@@ -8,7 +8,10 @@ Welcome to my professional portfolio. I am Daniel Wu, a second-year Biomedical E
 
 With a strong passion for the biotech industry, I am dedicated to expanding my knowledge of machine learning to contribute to innovative research and industries that aim to improve the lives of all individuals.
 
-<div style="border-top: 2px solid #000; width: 750px; margin: 1.5rem auto;"></div>
+---
+
+
+<div style="margin-bottom: 1.5rem;"></div>
 
 ### 🔧 Work Experience
 
@@ -31,7 +34,7 @@ Supervised by: [Michal Koziarski](https://scholar.google.com/citations?user=hEVR
 
 <div style="margin-bottom: 1.5rem;"></div>
 
-<div style="margin-top: 2rem; border-top: 2px solid #000; width: 700px; margin-left: auto; margin-right: auto;"></div>
+---
 
 <div style="height: 1rem;"></div>
 
