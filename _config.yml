@@ -2,6 +2,7 @@ title: Professional Portfolio | Daniel Wu
 email: "daniel.wu05@outlook.com"
 url: "https://danielw21.github.io/Personal-Portfolio/"
 theme: minima
+baseurl: "/Personal-Portfolio"
 
 linkedin_username: daniel-wu-8436b7277
 github_username: DanielW21

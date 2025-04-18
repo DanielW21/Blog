@@ -6,6 +6,6 @@ layout: post
 
 Created a Notification Bot using Github Actions and Selenium to automate search for available spots for and fitness classes and sports intermurals.
 
-<img src="Personal-Portfolio/assets/images/Notification-Bot/Notification.png" alt="Sample Notification" style="max-width: 600px;">
+![Sample Notification]({{ site.baseurl }}/assets/images/Notification-Bot/Notification.png)
 
 [Github Repo](https://github.com/DanielW21/Sports-Notification)
